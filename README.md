@@ -22,9 +22,11 @@ Turning raw data into meaningful insights, exploring global market trends, and w
 
 
 ## 🛠️ Technical Skills
-### Programming & Analytics Tools: Python, SQL, Power BI, Excel (Pivot Tables, Macros, VLOOKUP)
-### Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib
-### Data Modeling & Visualization Tools: Power BI, CPLEX, Odoo
+ Programming & Analytics Tools: Python, SQL, Power BI, Excel (Pivot Tables, Macros, VLOOKUP)
+ 
+ Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib
+ 
+ Data Modeling & Visualization Tools: Power BI, CPLEX, Odoo
 
 
 ## 📊 Projects
