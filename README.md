@@ -37,7 +37,7 @@ Here are some of the projects I’ve worked on. Check them out in my repositorie
 Built predictive models using machine learning techniques to identify factors contributing to churn.
 Tools: Python, Scikit-learn, Pandas, Matplotlib
 
-### Customer Segmentation Analysis for GUS Foods
+### Customer Segmentation Analysis for a Belgium startup 
 
 Conducted exploratory data analysis and implemented clustering models to enhance marketing strategies.
 Tools: Python, Excel
