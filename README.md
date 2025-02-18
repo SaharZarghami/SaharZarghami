@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Sahar 
-Welcome to my GitHub profile! I'm a passionate Data Analyst, Business Analyst, and a lifelong learner dedicated to making data-driven insights accessible and impactful.
+Welcome to my GitHub profile! I'm a passionate Financial Analyst, and a lifelong learner dedicated to making data-driven insights accessible and impactful.
 
 ## 🚀 About Me
 
